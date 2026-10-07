@@ -1,10 +1,10 @@
 # 📚 Best Free Study Resources for College Students 2026
 
-> Curated by [ScholarNet AI](https://scholar.0xpi.com) — Free AI-powered study tools
+> Curated by [Scholarize](https://scholar.0xpi.com) — Free AI-powered study tools
 
-## 🌟 What is ScholarNet AI?
+## 🌟 What is Scholarize?
 
-ScholarNet AI provides free AI-powered study tools including:
+Scholarize provides free AI-powered study tools including:
 - **AI Flashcards** — Auto-generate flashcards from any content
 - **AI Homework Help** — Instant step-by-step solutions
 - **Video Notes** — Convert YouTube lectures to study notes
@@ -17,7 +17,7 @@ ScholarNet AI provides free AI-powered study tools including:
 ## AI Study Tools
 
 - [Best AI Homework Help: Instant Solutions (2026)](https://scholar.0xpi.com/blog/ai-homework-helper-instant-help)
-- [Best Quizlet Alternative: AI Flashcards by ScholarNet (2026)](https://scholar.0xpi.com/blog/free-quizlet-alternative-scholarnet-ai)
+- [Best Quizlet Alternative: AI Flashcards by Scholarize (2026)](https://scholar.0xpi.com/blog/free-quizlet-alternative-scholarnet-ai)
 - [Top 10 AI Study Tools for College Students (Free Guide 2026)](https://scholar.0xpi.com/blog/best-ai-study-tools-college-students-2026)
 - [How to Get Free AI-Powered Video Notes in Minutes](https://scholar.0xpi.com/blog/convert-youtube-videos-study-notes-ai)
 - [How to Master Statistics: 7-Step Complete Study Guide &](https://scholar.0xpi.com/blog/how-to-statistics-study-guide-college-students-2026)
@@ -84,4 +84,4 @@ ScholarNet AI provides free AI-powered study tools including:
 
 ---
 
-*Updated: 2026-03-16 | [ScholarNet AI](https://scholar.0xpi.com)*
+*Updated: 2026-03-16 | [Scholarize](https://scholar.0xpi.com)*
